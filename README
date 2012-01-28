@@ -1,0 +1,3 @@
+A testing example, run with
+
+nosetests myproject
